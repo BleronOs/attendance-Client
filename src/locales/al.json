@@ -1,0 +1,337 @@
+{
+  "menus": {
+    "text_home": "Ballina",
+    "text_CheckLista": "Vendosja e Roleve",
+    "text_crm": "CRM",
+    "text_devices": "Paisjet",
+    "text_moduleaccess": "Modulet",
+    "text_JobPosition": "Pozicionet e Punes",
+    "text_Card": "Kartela",
+    "text_check": "Evidenca",
+    "text_Check-in-out": "Evidenca Hyrse/Dalse",
+    "text_Managers": "Menaxheret",
+    "text_Employees": "Puntoret",
+    "text_EmployeeManagment": "MenaxhimiPuntorve",
+    "text_profile": "Profili",
+    "text_register": "Regjistrimi Perdoruesve",
+    "text_ArchiveEmployee": "Arkiva e Puntorve",
+    "text_ArchiveManagers": "Arkiva e Menaxhereve",
+    "text_ArchiveCards": "Arkiva e Kartelave"
+  },
+  "job_position": {
+    "txt_header_name": "Emri",
+    "txt_button_add_header": "Shto Profesion",
+    "txt_modal_add_text": "Profesioni",
+    "txt_modal_add_text_placeholder": "Shkruaj Profesionin",
+    "txt_modal_error": "Ju lutem, shkruani Profesionin",
+    "txt_update_modal_title": "Ndrysho Profesionin",
+    "txt_update_modal_name_job_position": "Profesioni",
+    "txt_delete_success": "Pozicioni u fshi ne sukses",
+    "txt_add_success": "Pozicioni u shtua me sukses",
+    "txt_update_success": "Pozicioni u ndryshua me sukses",
+    "txt_add_button": "Shto Pozicion Pune"
+  },
+  "checks": {
+    "txt_btn_add": "Shto Evidentimin Manualisht",
+    "txt_modal_header": "Evidentimi Manual",
+    "txt_modal_date": "Zgjidhe Daten dhe Kohen Hyrese",
+    "txt_modal_employee": "Selekto Puntorin",
+    "txt_modal_reason": "Shenime",
+    "txt_tbl_firstname": "Emri",
+    "txt_tbl_lastname": "Mbiemri",
+    "txt_tbl_card": "Kartela",
+    "txt_tbl_checkDateTime": "Koha Hyrese",
+    "txt_tbl_serverDateTime": "Koha Reale Hyrese",
+    "txt_tbl_admin_firstname": "Emri Admin-it",
+    "txt_tbl_admin_lastname": "Mbiemri Admin-it",
+    "txt_tbl_reason": "Shenime",
+    "text_field_select_date_when_employee_started_work": "Zgjidhe Daten e Fillimit te Punes",
+    "text_field_select_employee": "Zgjidhe Puntorin",
+    "text_field_write_admins_name_who_inserted_the_check": "Sheno Adminin i cili e ka insertuar kete evidenc",
+    "text_field_reason_of_check_in_manually": "Ju lutem tregoni arsyen e Check In-it Manual",
+    "text_field_minimum_character": "Minimumi i Karaktereve eshte 15 tek Rubrika: Shenime",
+    "text_add_check_successfuly": "Evidentimi u Shtua me Sukses!",
+    "text_add_check_error": "Evidentimi nuk u shtua!"
+  },
+  "check_in_out": {
+    "txt_tbl_firstname": "Emri",
+    "txt_tbl_lastname": "Mbiemri",
+    "txt_tbl_card": "Kartela",
+    "txt_tbl_first_check_date_time": "Koha Hyrese",
+    "txt_tbl_last_check_date_time": "Koha Dalese",
+    "txt_tbl_last_check_total_hours": "Oret ne Total",
+    "txt_tbl_last_check_extra_hours": "Oret shtes"
+  },
+  "card": {
+    "txt_tbl_card": "Numri Unik Karteles",
+    "txt_tbl_firstname": "Emri",
+    "txt_tbl_lastname": "Mbiemri",
+    "txt_tbl_reason": "Shenimet e Karteles",
+    "txt_tbl_status": "Statusi",
+    "txt_btn_add_card_header": "Shto Kartele",
+    "txt_modal_add_number_card": "Numri Referues i Karteles",
+    "txt_modal_add_employee_select": "Selekto Puntorin",
+    "txt_modal_add_reason": "Shenime",
+    "txt_modal_add_automated_reason": "Shenime Automatike",
+    "txt_update_modal_title": "Ndrysho Kartelen",
+    "txt_modal_is_active": "Eshte Aktive",
+    "txt_activation_card": "Aktivizo Kartelen",
+    "txt_add_button_card": "Shto Kartelen",
+    "txt_loading_error": "Nuk Egziston as nje Kartele"
+  },
+  "table_headers": {
+    "buttons_update_delete": "Veprimet"
+  },
+  "add_employee_modal": {
+    "text_add_employee": "Shto Puntorin",
+    "text_add_employee_firstname": "Sheno Emrin e puntorit",
+    "text_add_employee_lastname": "Sheno Mbiemrin e Puntorit",
+    "text_add_employee_birthdate": "Selekto Datelindjen e Puntorit",
+    "text_add_employee_personalnumber": "Sheno Numrin Personal te Puntorit",
+    "text_add_employee_address": "Sheno Adresen e Puntorit",
+    "text_add_employee_email": "Sheno Emailin e Puntorit",
+    "text_add_employee_phonenumber": "Sheno Numrin e Telefonit te Puntorit",
+    "text_add_employee_jobposition": "Selekto Pozicionin e Punes",
+    "text_add_employee_status": "Eshte aktiv",
+    "text_add_employee_add_button": "Shto",
+    "text_add_field": "Ju lutem mbushini te gjitha fushat",
+    "text_employee_not_added": "Puntori nuk u insertua",
+    "text_employee_select_role": "Selekto rolin"
+  },
+  "update_employee_modal": {
+    "text_header": "Ndrysho te dhenat",
+    "text_update_firstname": "Ndrysho Emrin",
+    "text_update_lastname": "Ndrysho Mbiemrin",
+    "text_update_birthdate": "Ndrysho Datlindjen",
+    "text_update_personalnumber": "Ndrysho Numrin Personal",
+    "text_update_address": "Ndrysho Adresen",
+    "text_update_email": "Ndrysho Emailin",
+    "text_update_phonenumber": "Ndrysho Numrin e Telefonit",
+    "text_update_jobposition": "Ndrysho Pozicionin e Punes",
+    "text_save_button": "Ruaj"
+  },
+  "update_delete_employee_modal": {
+    "text_header": "Ndrysho te dhenat",
+    "text_header_delete": "Fshij te dhenat",
+    "text_delete_update_firstname": "Emri",
+    "text_delete_update_lastname": "Mbiemri",
+    "text_delete_update_notes": "Arsyeja pse ky puntor do te behet pasiv",
+    "text_save_button": "Ruaj",
+    "text_update_employee_success": "Te dhenat u ndryshuan me sukses",
+    "text_update_employee_error": "Kontakto adminin per kete problem"
+  },
+  "employee": {
+    "text_button_add_employee": "Shto Puntor",
+    "text_header_employee_firstname": "Emri",
+    "text_header_employee_lastname": "Mbiemri",
+    "text_header_employee_birthdate": "Datlindja",
+    "text_header_employee_personalnumber": "Numri Personal",
+    "text_header_employee_adress": "Adresa",
+    "text_header_employee_email": "Emaili",
+    "text_header_employee_phonenumber": "Numri Telefonit",
+    "text_header_employee_jobposition": "Pozicioni Punes",
+    "text_header_employee_status": "Statusi",
+    "text_header_employee_search": "Filtro",
+    "text_header_button_delete": "Fshij",
+    "text_header_status_active_result": "Aktiv",
+    "text_header_status_passive_result": "Pasiv",
+    "text_header_email": "Email",
+    "text_email_is_not_valid": "Kjo Email nuk eshte Valide",
+    "text_personal_number": "Ju lutem Vendosni vetem Numra"
+  },
+  "add_manager_modal": {
+    "text_add_manager_header": "Shto Menaxheret",
+    "text_add_manager_select_employee": "Selekto Puntorin",
+    "text_add_manager_status": "Eshte Aktiv",
+    "text_add_manager_add_button": "Shto",
+    "text_add_manager_field_errorr": "Ju lutem mbushini te gjitha fushat"
+  },
+  "manager": {
+    "text_button_add_manager": "Shto Menaxher",
+    "text_header_manager_firstname": "Emri",
+    "text_header_manager_lastname": "Mbiemri",
+    "text_header_manager_status": "Statusi",
+    "text_header_manager_search": "Filtro",
+    "text_header_button_delete": "Fshij",
+    "text_header_status_active_result": "Aktiv",
+    "text_header_status_passive_result": "Pasiv",
+    "text_add_button": "Shto Menaxher"
+  },
+  "employee_managment": {
+    "text_employee_managment_button_header": "Shto Menaxhmentin",
+    "text_manager_firstname": "Emri Menaxherit",
+    "text_manager_lastname": "Mbiemri Menaxherit",
+    "text_employee_firstname": "Emri Puntorit",
+    "text_employee_lastname": "Mbiemri Puntorit",
+    "text_employee_managment_actions": "Veprimet",
+    "text_employee_managment_options": "Opcionet",
+    "text_employee_managment_update": "Ndrysho",
+    "text_employee_managment_delete": "Fshij",
+    "text_add_button": "Shto Menaxhmentin"
+  },
+  "employee_managment_modal": {
+    "text_add_employee_managment_header": "Menaxho Puntoret",
+    "text_add_employee_managment_select_manager": "Selekto Menaxherin",
+    "text_add_employee_managment_select_employee": "Selekto Puntorin",
+    "text_add_employee_managment_button_add": "Shto",
+    "text_add_employee_managment_success": "Menaxhimi u shtua me sukses",
+    "text_update_employee_managment_success": "Ndryshimet u kryen me sukses"
+  },
+  "employee_managment_update": {
+    "text_employee_managment_update_button_header": "Ndrysho Menaxhimin e Puntorit",
+    "text_employee_managment_select_manager": "Selekto Menaxherin",
+    "text_employee_managment_select_employee": "Selekto Puntorin",
+    "text_employee_managment_save_button": "Ruaj"
+  },
+  "archive_employee": {
+    "text_header_employee_firstname": "Emri",
+    "text_header_employee_lastname": "Mbiemri",
+    "text_header_employee_birthdate": "Datlindja",
+    "text_header_employee_personalnumber": "Numri Personal",
+    "text_header_employee_adress": "Adresa",
+    "text_header_employee_phonenumber": "Numri Telefonit",
+    "text_header_employee_jobposition": "Pozicioni Punes",
+    "text_header_employee_status": "Statusi",
+    "text_header_button_update": "Ndrysho",
+    "text_header_button_notes": "Shenimet Shtes"
+  },
+  "archive_employee_update_modal": {
+    "text_employee_update_header": "Ndrysho te dhenat",
+    "text_employee_update_firstname": "Ndrysho Emrin",
+    "text_employee_update_lastname": "Ndrysho Mbiemrin",
+    "text_employee_update_birthdate": "Ndrysho Datelindjen",
+    "text_employee_update_personalnumber": " Ndrysho Numrin Personal",
+    "text_employee_update_address": "Ndrysho Adresen",
+    "text_employee_update_email": "Ndrysho Emailin",
+    "text_employee_update_phonenumber": " Ndrysho Numrin e Telefonit",
+    "text_employee_update_jobposition": "Ndrysho pozicionin e Punes",
+    "text_employee_update_status": "Eshte Aktiv",
+    "text_employee_update_save_button": "Ruaj",
+    "text_employee_update_check_manager_if_its_active": "Kontrollo nese puntori eshte menaxher."
+  },
+  "archive_manager": {
+    "text_header_manager_firstname": "Emri",
+    "text_header_manager_lastname": "Mbiemri",
+    "text_header_manager_status": "Statusi",
+    "text_header_button_update": "Ndrysho",
+    "text_header_activate_manager": "Aktivizimi i Menaxherit"
+  },
+  "archive_manager_update_modal": {
+    "text_manager_button_name": "Aktivizo Menagjerin",
+    "text_manager_error": "Ky Menaxher nuk eshte me puntor aktiv.",
+    "text_manager_update_header": "Ndrysho te dhenat",
+    "text_manager_update_firstname": "Ndrysho Emrin",
+    "text_manager_update_lastname": "Ndrysho Mbiemrin",
+    "text_manager_update_status": "Eshte Aktiv",
+    "text_manager_update_save_button": "Ruaj"
+  },
+  "verification_modal": {
+    "text_header_verification": "A jeni te sigurte?",
+    "text_verification_yes_option": "Po",
+    "text_verification_no_option": "Jo",
+    "text_manager_error_verification": "Menaxheri eshte ende puntor aktiv"
+  },
+  "toast_card_notification": {
+    "text_add_success": "Kartela u shtua me sukses.",
+    "text_delete_success": "Kartela u fshi me sukses.",
+    "text_error": "Kontakto adminin per kete problem!",
+    "text_error_field_add_card": "Shenoni Numrin Referues te Karteles",
+    "text_error_field_add_employee": "Selekto Puntorin",
+    "text_error_card_not_inserted": "Kartela nuk u insertua",
+    "text_updated_card_success": "Kartela u perditesua me sukses",
+    "text_updaated_card_error": "Kartela nuk u perditesua"
+  },
+  "toast_employee_notification": {
+    "text_add_success": "Puntori u shtua me sukses.",
+    "text_delete_success": "Puntori u fshi me sukses.",
+    "text_error": "Kontakto adminin per kete problem!"
+  },
+  "toast_manager_notification": {
+    "text_add_success": "Menaxheri u shtua me sukses.",
+    "text_delete_success": "Menaxheri u fshi me sukses.",
+    "text_error": "Kontakto adminin per kete problem!",
+    "text_update_success": "Menaxheri u aktivizua me sukses"
+  },
+  "toast_employee_managment_notification": {
+    "text_add_success": "Menagjimi u shtua me sukses.",
+    "text_delete_success": "Menagjimi u fshi me sukses.",
+    "text_error": "Kontakto adminin per kete problem!"
+  },
+  "card_archive": {
+    "text_activate_successfuly": "Kartela u Aktivizua me Sukses",
+    "text_activate_error": "Kartela nuk u Aktivizua"
+  },
+  "delete_emplyee_with_user": {
+    "text_success_delete": "Puntori u fshi me sukses",
+    "text_error_delete": "Kontrollo nese ky puntor eshte ende menaxher"
+  },
+  "archive_card": {
+    "text_loading_error": "Nuk Egziston asnje Kartele Pasive!"
+  },
+  "role": {
+    "text_role_approach": "Qasja e roleve ne Module",
+    "text_add_button": "Shto Role"
+  },
+  "profile": {
+    "text_completed_hours": "Oret Mujore te Kompletuara.",
+    "text_description": "Oret e kompletuara nga muaji aktual",
+    "text_header_completed": "Oret e Kompletuara",
+    "text_header_total": "Oret ne Total"
+  },
+  "dashboard": {
+    "text_employees": "Puntoret",
+    "text_employees_active": "Puntoret Aktive",
+    "text_employees_pasive": "Puntoret Pasive",
+    "text_managers": "Menaxheret",
+    "text_managers_active": "Menaxheret Aktive",
+    "text_managers_pasive": "Menaxheret Pasive",
+    "text_cards": "Kartelat",
+    "text_cards_active": "Kartelat Aktive",
+    "text_cards_pasive": "Kartelat Pasive",
+    "text_weekly_hours_target": "Targeti Javore",
+    "text_target_day": "Targeti Ditore",
+    "text_done_hours_day": "Oret e Kompleuara",
+    "text_total_precentage": "Totali ne %",
+    "text_employees_weekly": "Evidentimi i Puntoreve ne Interval 1 - Javore",
+    "text_monthly_target": "Targeti Mujore",
+    "text_done_hours_monthly": "Oret e Realizuara",
+    "text_table_check_employees": "Evidentimet e Fundit"
+  },
+  "excel": {
+    "button_export_data": "Eksporto ne Excel"
+  },
+  "remarks": {
+    "text_remarks": "Verejtje",
+    "text_add_remarks_header": "Shto Verejtje",
+    "text_full_name_employee": "Emri dhe Mbiemri",
+    "text_remarks_placeholder": "Shkruaj nje Verejtje...",
+    "success_inserted_remarks": "Verejtja u insertua me sukses",
+    "failed_inserted_remarks": "Verejtja nuk u insertua",
+    "error_empty_reasons": "ju lutem shkruani Arsyen"
+  },
+  "time": {
+    "text_inserted_time": "koha e insertimit"
+  },
+  "button": {
+    "text_remarks": "Verejtje"
+  },
+  "table_profile": {
+    "text_week_target": "Targeti Javore",
+    "text_done_week_hours": "Oret e Realizuara",
+    "text_Weeks": "Java"
+  },
+  "new_password": {
+    "text_change_password": "Ndrysho FjaleKalimin",
+    "text_current_password": "Shrkuaj FjaleKalimin Aktual",
+    "text_password": "Shkruaj FjaleKalimin e Ri",
+    "text_repeat_password": "Ri-Shkruaj FjaleKalimin e Ri",
+    "button_submit": "Ndrysho FjaleKalimin",
+    "error_fill_all_inputs": "Ju lutem, Plotesoni te gjitha fushat",
+    "error_fill_current_password": "Ju lutem shkruani Fjalekalimin Aktual",
+    "error_fill_new_password_input": "ju lutem vendosni nje fjalekalim te ri",
+    "error_fill_repeat_password_input": "ju lutem , Ri-Perserit fjalekalimin e ri",
+    "error_match_two_password": "Fjalekalimi i Ri nuk eshte i njejt me kolonen Rishkruaj fjalekalimin",
+    "success_change_password": "Fjalekalimi u ndryshua me sukses",
+    "error_password_was_not_change": "Fjalekalimi nuk u ndryshua"
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "menus": {
+    "text_home": "DashBoard",
+    "text_CheckLista": "Role Check",
+    "text_crm": "CRM",
+    "text_devices": "Paisjet",
+    "text_moduleaccess": "Modulet",
+    "text_JobPosition": "Job Position",
+    "text_Card": "Card",
+    "text_check": "Checks",
+    "text_Check-in-out": "Check In Out",
+    "text_Managers": "Managers",
+    "text_Employees": "Employee",
+    "text_EmployeeManagment": "Employee Managment",
+    "text_profile": "Profile",
+    "text_register": "Register Users",
+    "text_ArchiveEmployee": "Employee Archive",
+    "text_ArchiveManagers": "Managers Archive",
+    "text_ArchiveCards": "Cards Archive"
+  },
+  "job_position": {
+    "txt_header_name": "Name",
+    "txt_button_add_header": "Add Profession",
+    "txt_modal_add_text": "Profession",
+    "txt_modal_add_text_placeholder": "Profession Name",
+    "txt_modal_error": "Please, enter Profession",
+    "txt_update_modal_title": "Update Profession",
+    "txt_update_modal_name_job_position": "Profession"
+  },
+  "checks": {
+    "txt_btn_add": "Add Checks Manually",
+    "txt_modal_header": "Add Checks Manually",
+    "txt_modal_date": "Select Entry Date and Time",
+    "txt_modal_employee": "Select Employee",
+    "txt_modal_reason": "Notes",
+    "txt_tbl_firstname": "First Name",
+    "txt_tbl_lastname": "Last Name",
+    "txt_tbl_card": "Cards",
+    "txt_tbl_checkDateTime": "Enter Time",
+    "txt_tbl_serverDateTime": "Real Enter Time",
+    "txt_tbl_admin_firstname": "Admins First Name",
+    "txt_tbl_admin_lastname": "Admins Last Name",
+    "txt_tbl_reason": "Notes"
+  },
+  "check_in_out": {
+    "txt_tbl_firstname": "First Name",
+    "txt_tbl_lastname": "Last Name",
+    "txt_tbl_card": "Cards",
+    "txt_tbl_first_check_date_time": "Enter Time",
+    "txt_tbl_last_check_date_time": "Exit Time",
+    "txt_tbl_last_check_total_hours": "Total Hours",
+    "txt_tbl_last_check_extra_hours": "Extra Hours"
+  },
+  "card": {
+    "txt_tbl_card": "Unique Card Number",
+    "txt_tbl_firstname": "First Name",
+    "txt_tbl_lastname": "Last Name",
+    "txt_tbl_reason": "Card Notes",
+    "txt_tbl_status": "Status",
+    "txt_btn_add_card_header": "Add Card",
+    "txt_modal_add_number_card": "Ref Card Number",
+    "txt_modal_add_employee_select": "Select Employee",
+    "txt_modal_add_reason": "Notes",
+    "txt_modal_add_automated_reason": "Automated Notes",
+    "txt_update_modal_title": "Update Card",
+    "txt_modal_is_active": "Is Active",
+    "txt_activation_card": "Activate Card",
+    "txt_add_button_card": "Add Card"
+  },
+  "table_headers": {
+    "buttons_update_delete": "Actions"
+  },
+  "add_employee_modal": {
+    "text_add_employee": "Add Employee",
+    "text_add_employee_firstname": "Enter Employee First Name",
+    "text_add_employee_lastname": "Enter Employee Last Name",
+    "text_add_employee_birthdate": "Select Employee BirthDate",
+    "text_add_employee_personalnumber": "Enter Employee Personal Number",
+    "text_add_employee_address": "Enter Employee Address",
+    "text_add_employee_email": "Enter Employee Email",
+    "text_add_employee_phonenumber": "Enter Employee Phone Number",
+    "text_add_employee_jobposition": "Select Job Position",
+    "text_add_employee_status": "Is Active",
+    "text_add_employee_add_button": "Add"
+  },
+  "update_employee_modal": {
+    "text_header": "Update the Data",
+    "text_update_firstname": "Update First Name",
+    "text_update_lastname": "Update Last Name",
+    "text_update_birthdate": "Update BirthDate",
+    "text_update_personalnumber": "Update Personal Number",
+    "text_update_address": "Update Address",
+    "text_update_email": "Update Email",
+    "text_update_phonenumber": "Update Phone Number",
+    "text_update_jobposition": "Update Job Position",
+    "text_save_button": "Save"
+  },
+  "employee": {
+    "text_button_add_employee": "Add Employee",
+    "text_header_employee_firstname": "First Name",
+    "text_header_employee_lastname": "Last Name",
+    "text_header_employee_birthdate": "BirthDate",
+    "text_header_employee_personalnumber": "Personal Number",
+    "text_header_employee_adress": "Address",
+    "text_header_employee_email": "Email",
+    "text_header_employee_phonenumber": "Phone Number",
+    "text_header_employee_jobposition": "Job Position",
+    "text_header_employee_status": "Status",
+    "text_header_employee_search": "Search",
+    "text_header_button_delete": "Delete",
+    "text_header_status_active_result": "Active",
+    "text_header_status_passive_result": "Passive"
+  },
+  "add_manager_modal": {
+    "text_add_manager_header": "Add Managers",
+    "text_add_manager_select_employee": "Select Employee",
+    "text_add_manager_status": "Is Active",
+    "text_add_manager_add_button": "Add"
+  },
+  "manager": {
+    "text_button_add_manager": "Add Manager",
+    "text_header_manager_firstname": "First Name",
+    "text_header_manager_lastname": "Last Name",
+    "text_header_manager_status": "Status",
+    "text_header_manager_search": "Search",
+    "text_header_button_delete": "Delete",
+    "text_header_status_active_result": "Active",
+    "text_header_status_passive_result": "Passive"
+  },
+  "employee_managment_modal": {
+    "text_add_employee_managment_header": "Manage Employees",
+    "text_add_employee_managment_select_manager": "Select Manager",
+    "text_add_employee_managment_select_employee": "Select Employee",
+    "text_add_employee_managment_button_add": "Add"
+  },
+  "employee_managment": {
+    "text_employee_managment_button_header": "Add Employee Managment",
+    "text_manager_firstname": "Manager First Name",
+    "text_manager_lastname": "Manager Last Name",
+    "text_employee_firstname": "Employee First Name",
+    "text_employee_lastname": "Employee Last Name",
+    "text_employee_managment_actions": "Actions",
+    "text_employee_managment_update": "Update",
+    "text_employee_managment_delete": "Delete"
+  },
+  "employee_managment_update": {
+    "text_employee_managment_update_button_header": "Update Employee Managment",
+    "text_employee_managment_select_manager": "Select Manager",
+    "text_employee_managment_select_employee": "Select Employee",
+    "text_employee_managment_save_button": "Save"
+  },
+  "archive_employee": {
+    "text_header_employee_firstname": "First Name",
+    "text_header_employee_lastname": "Last Name",
+    "text_header_employee_birthdate": "Birth Date",
+    "text_header_employee_personalnumber": "Personal Number",
+    "text_header_employee_adress": "Address",
+    "text_header_employee_phonenumber": "Phone Number",
+    "text_header_employee_jobposition": "Job Position",
+    "text_header_employee_status": "Status",
+    "text_header_button_update": "Update",
+    "text_header_button_notes": "Extra Notes"
+  },
+  "archive_employee_update_modal": {
+    "text_employee_update_header": "Update the Data",
+    "text_employee_update_firstname": "Update First Name",
+    "text_employee_update_lastname": "Update Last Name",
+    "text_employee_update_birthdate": "Update BirthDate",
+    "text_employee_update_personalnumber": " Update Personal Number",
+    "text_employee_update_address": "Update Address",
+    "text_employee_update_email": "Update Email",
+    "text_employee_update_phonenumber": " Update Phone Number",
+    "text_employee_update_jobposition": "Update Job Positon",
+    "text_employee_update_status": "Is Active",
+    "text_employee_update_save_button": "Save"
+  },
+  "archive_manager": {
+    "text_header_manager_firstname": "First Name",
+    "text_header_manager_lastname": "Last Name",
+    "text_header_manager_status": "Status",
+    "text_header_button_update": "Update"
+  },
+  "archive_manager_update_modal": {
+    "text_manager_update_header": "Update the Data",
+    "text_manager_update_firstname": "Update First Name",
+    "text_manager_update_lastname": "Update Last Name",
+    "text_manager_update_status": "Is Active",
+    "text_manager_update_save_button": "Save",
+    "text_manager_button_name": "Activate Manager"
+  },
+  "verification_modal": {
+    "text_header_verification": "Are you sure?",
+    "text_verification_yes_option": "Yes",
+    "text_verification_no_option": "No"
+  },
+  "toast_card_notification": {
+    "text_add_success": "Card added successfully.",
+    "text_delete_success": "Card deleted successfully.",
+    "text_error": "Contact administration for this problem!"
+  },
+  "toast_employee_notification": {
+    "text_add_success": "Employee added successfully.",
+    "text_delete_success": "Employee deleted successfully.",
+    "text_error": "Contact administration for this problem!"
+  },
+  "toast_manager_notification": {
+    "text_add_success": "Manager added successfully.",
+    "text_delete_success": "Manager deleted successfully.",
+    "text_error": "Contact administration for this problem!"
+  },
+  "toast_employee_managment_notification": {
+    "text_add_success": "Employee Managment added successfully.",
+    "text_delete_success": "Employee Managment deleted successfully.",
+    "text_error": "Contact administration for this problem!"
+  },
+  "role": {
+    "text_role_approach": "Role Access to Modules",
+    "text_add_button": "Add Role"
+  },
+  "profile": {
+    "text_completed_hours": "Completed Monthly Hours",
+    "text_description": "Completed Hours from Last Month",
+    "text_header_completed": "Completed Hours",
+    "text_header_total": "Total Hours"
+  },
+  "dashboard": {
+    "text_employees": "Puntoret",
+    "text_employees_active": "Puntoret Aktive",
+    "text_employees_pasive": "Puntoret Pasive",
+    "text_managers": "Menaxheret",
+    "text_managers_active": "Menaxheret Aktive",
+    "text_managers_pasive": "Menaxheret Pasive",
+    "text_cards": "Kartelat",
+    "text_cards_active": "Kartelat Aktive",
+    "text_cards_pasive": "Kartelat Pasive",
+    "text_weekly_hours_target": "Targeti Javore",
+    "text_target_day": "Targeti Ditore",
+    "text_done_hours_day": "Oret e Kompleuara",
+    "text_total_precentage": "Totali ne %",
+    "text_employees_weekly": "Evidentimi i Puntoreve ne Interval 1 - Javore",
+    "text_monthly_target": "Targeti Mujore",
+    "text_done_hours_monthly": "Oret e Realizuara",
+    "text_table_check_employees": "Evidentimet e Fundit"
+  },
+  "excel": {
+    "button_export_data": "Eksporto ne Excel"
+  },
+  "remarks": {
+    "text_remarks": "Verejtje",
+    "text_add_remarks_header": "Shto Verejtje",
+    "text_full_name_employee": "Emri dhe Mbiemri",
+    "text_remarks_placeholder": "Shkruaj nje Verejtje...",
+    "success_inserted_remarks": "Verejtja u insertua me sukses",
+    "failed_inserted_remarks": "Verejtja nuk u insertua",
+    "error_empty_reasons": "ju lutem shkruani Arsyen"
+  },
+  "time": {
+    "text_inserted_time": "koha e insertimit"
+  },
+  "button": {
+    "text_remarks": "Verejtje"
+  },
+  "table_profile": {
+    "text_week_target": "Targeti Javore",
+    "text_done_week_hours": "Oret e Realizuara",
+    "text_Weeks": "Java"
+  },
+  "new_password": {
+    "text_change_password": "Ndrysho FjaleKalimin",
+    "text_current_password": "Shrkuaj FjaleKalimin Aktual",
+    "text_password": "Shkruaj FjaleKalimin e Ri",
+    "text_repeat_password": "Ri-Shkruaj FjaleKalimin e Ri",
+    "button_submit": "Ndrysho FjaleKalimin",
+    "error_fill_all_inputs": "Ju lutem, Plotesoni te gjitha fushat",
+    "error_fill_current_password": "Ju lutem shkruani Fjalekalimin Aktual",
+    "error_fill_new_password_input": "ju lutem vendosni nje fjalekalim te ri",
+    "error_fill_repeat_password_input": "ju lutem , Ri-Perserit fjalekalimin e ri",
+    "error_match_two_password": "Fjalekalimi i Ri nuk eshte i njejt me kolonen Rishkruaj fjalekalimin",
+    "success_change_password": "Fjalekalimi u ndryshua me sukses",
+    "error_password_was_not_change": "Fjalekalimi nuk u ndryshua"
+  }
+}

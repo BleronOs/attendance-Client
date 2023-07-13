@@ -1,0 +1,13 @@
+root = true
+
+[*.js]
+end_of_line = crlf
+insert_final_newline = true
+charset = utf-8
+
+[*.js]
+indent_style = tabs
+indent_size = 4
+
+[Makefile]
+indent_style = tab
