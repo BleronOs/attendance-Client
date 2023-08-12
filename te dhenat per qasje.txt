@@ -1,0 +1,18 @@
+Admin:
+
+username: bleronos6@gmail.com
+
+password: 123456
+
+
+Manager:
+
+username: bleroni6@hotmail.com
+
+password: 123456
+
+Employee:
+
+username: bleroni.6@hotmail.com
+
+password: 123456
